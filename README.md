@@ -2,7 +2,6 @@
 
 Use this project as example project for setup new projects (e.g. linter, .editorconfig etc.)
 
-
 ## Setup .editorconfig
 
 Read more on [editorconfig.org] about the `.editorconfig`
@@ -19,7 +18,6 @@ Use the [VS Code Plugin]
 
 1. Got to: `Settings > Editor > Code Style`
 2. Tick the checkbox Enable EditorConfig support
-
 
 ## Sample .editorconfig
 
@@ -52,7 +50,6 @@ Use [gitignore.io](http://gitignore.io/) to generate your new `.gitignore` file.
 
 Use the edit URL from the `.gitignore` file to edit `.gitignore` settings.
 
-
 ## Setup .gitattributes
 
 Check [gitHub Common.gitattributes](https://github.com/alexkaratarakis/gitattributes/blob/master/Common.gitattributes) when you start you project.
@@ -64,7 +61,6 @@ Note: Enforcing Unix newlines with the `.gitattributes` is usually done by a lin
 If you use docker check if you actually require this `.dockerignore`.
 
 Check: [Common examples on gitHub](https://github.com/garygitton/dockerignore)
-
 
 ## Linting
 
