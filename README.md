@@ -58,3 +58,9 @@ Use the edit URL from the `.gitignore` file to edit `.gitignore` settings.
 Check [gitHub Common.gitattributes](https://github.com/alexkaratarakis/gitattributes/blob/master/Common.gitattributes) when you start you project.
 
 Note: Enforcing Unix newlines with the `.gitattributes` is usually done by a linter and can be added for safety purposes.
+
+## Setup .dockerignore
+
+If you use docker check if you actually require this `.dockerignore`.
+
+Check: [Common examples on gitHub](https://github.com/garygitton/dockerignore)
