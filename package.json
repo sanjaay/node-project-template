@@ -1,0 +1,15 @@
+{
+  "name": "project-template",
+  "version": "0.0.1",
+  "description": "Use this prject as example project for setup new projects (e.g. linter, .editorconfig etc.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.verimi.cloud:integration/project-template.git"
+  },
+  "author": "Jakob Sanwald",
+  "license": "ISC"
+}

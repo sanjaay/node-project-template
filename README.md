@@ -1,3 +1,3 @@
-# template-project
+# Template Project
 
-Template for new JS, NodeJS or MD projects
+Use this project as example project for setup new projects (e.g. linter, .editorconfig etc.)
