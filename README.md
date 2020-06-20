@@ -41,3 +41,14 @@ charset = utf-8
 [*.md]
 trim_trailing_whitespace = false
 ```
+
+## Setup .gitignore
+
+### New
+
+Use [gitignore.io](http://gitignore.io/) to generate your new `.gitignore` file.
+
+### Edit
+
+Use the edit URL from the `.gitignore` file to edit `.gitignore` settings.
+
