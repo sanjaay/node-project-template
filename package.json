@@ -4,12 +4,16 @@
   "description": "Use this prject as example project for setup new projects (e.g. linter, .editorconfig etc.)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier-standard --format"
   },
   "repository": {
     "type": "git",
     "url": "git@gitlab.verimi.cloud:integration/project-template.git"
   },
   "author": "Jakob Sanwald",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier-standard": "^16.3.0"
+  }
 }

@@ -64,3 +64,20 @@ Note: Enforcing Unix newlines with the `.gitattributes` is usually done by a lin
 If you use docker check if you actually require this `.dockerignore`.
 
 Check: [Common examples on gitHub](https://github.com/garygitton/dockerignore)
+
+
+## Linting
+
+### Prettier-standard
+
+The project [prettier-standard] uses JavaScript [JavaScript Standard Style](standardJS).
+
+[prettier-standard](https://www.npmjs.com/package/prettier-standard)
+[JavaScript Standard Style](https://standardjs.com)
+
+### Editors
+
+Every Editor as e.g. VS Code, WebStorm or IntelliJ have plugins.
+
+[WebStorm](https://prettier.io/docs/en/webstorm.html)
+[VS Code Plugin](https://marketplace.visualstudio.com/items?itemName=numso.prettier-standard-vscode)
