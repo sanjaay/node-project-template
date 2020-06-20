@@ -52,3 +52,9 @@ Use [gitignore.io](http://gitignore.io/) to generate your new `.gitignore` file.
 
 Use the edit URL from the `.gitignore` file to edit `.gitignore` settings.
 
+
+## Setup .gitattributes
+
+Check [gitHub Common.gitattributes](https://github.com/alexkaratarakis/gitattributes/blob/master/Common.gitattributes) when you start you project.
+
+Note: Enforcing Unix newlines with the `.gitattributes` is usually done by a linter and can be added for safety purposes.
